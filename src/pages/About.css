@@ -26,7 +26,7 @@
 }
 
 .name_title {
-  font-size: 48px;
+  font-size: 60px;
   color: black;
   text-align: left;
   padding-bottom: 20px;
@@ -34,10 +34,17 @@
 
 .brief_description {
   text-align: left;
+  font-size: 25px;
 }
 
 .profile_pic {
   width: 500px;
   height: auto;
   border-radius: 50px;
+}
+
+
+.fun_facts{
+  padding-top: 5vh;
+  text-align: left;
 }

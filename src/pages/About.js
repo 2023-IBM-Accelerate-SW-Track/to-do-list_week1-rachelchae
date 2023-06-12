@@ -22,7 +22,12 @@ export default class About extends Component {
         <div className="brief_description">
           Hi, I'm a junior studying Computer Science @ Brown University!
         </div>
+        <div className='fun_facts'>
+          In my free time, you'll find me painting, drawing designs, or reading books outside!
+          I'm a huge creativity gal, and I always emphasize the artistic and design aspect of coding! 
+        </div>
       </div>
+      
     </div>
   </div>
 
