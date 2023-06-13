@@ -27,7 +27,6 @@ class Home extends Component {
     this.setState({
       todos: new_list,
     }); 
-    console.log(this.state.todos)
   };
 
   // deleteTodo = (id) => {
